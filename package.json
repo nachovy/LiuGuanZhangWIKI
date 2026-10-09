@@ -1,0 +1,16 @@
+{
+  "name": "donghan-人物志",
+  "private": true,
+  "description": "穿越东汉末年人物志",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "install-book": "honkit install"
+  },
+  "devDependencies": {
+    "honkit": "^6.1.0"
+  }
+}

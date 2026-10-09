@@ -1,0 +1,17 @@
+{
+    "root": "./",
+    "title": "魂穿东汉末年",
+    "head_title": "_魂穿东汉末年",
+    "head_description": "包含《魂穿东汉末年》系列人物百科，含正史对照。",
+    "head_keywords": "wiki,文档部署,东汉末年,三国,人物百科",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings"
+    ]
+}
