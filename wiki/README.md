@@ -52,7 +52,7 @@
 | [刘承乾](fictional/liu-chengqian.md) | 刘登之子，刘官章命名的皇太孙 |
 | [边宁安](fictional/bian-ning-an.md) | 马超部凉州士卒，先登升司马，后列入任期届满调中央名单 |
 | [韦世灰](fictional/wei-shihui.md) | 益州战后提拔的改编将领，后负责马政（第8、10、12集） |
-| [黄商](fictional/huang-shang-person.md) | 荆州黄氏子弟，比武亚军并守阳城（第14、19集） |
+| [黄裳](fictional/huang-shang-person.md) | 荆州黄氏子弟，比武亚军并守阳城（第14、19集） |
 
 ### 🔵 历史人物（含正史对照）
 

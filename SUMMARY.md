@@ -72,7 +72,7 @@
 - [刘承乾（剧中改编）](wiki/fictional/liu-chengqian.md)
 - [边宁安（剧中人物）](wiki/fictional/bian-ning-an.md)
 - [韦世灰（剧中改编）](wiki/fictional/wei-shihui.md)
-- [黄商（剧中人物）](wiki/fictional/huang-shang-person.md)
+- [黄裳（剧中人物）](wiki/fictional/huang-shang-person.md)
 
 ### 历史人物
 
