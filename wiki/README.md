@@ -2,17 +2,17 @@
 
 本百科基于《魂穿东汉末年》系列视频（共40集）整理。
 
-逐集字幕范围、广告排除规则和统一用字见[《字幕校订、事件范围与统一用字》](subtitle-corrections.md)。
+逐集剧情范围、广告排除规则和记录口径见[《剧情范围》](story-conventions.md)。
 
 ## 关于本系列
 
-叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾六年至末段（约218—219年前后）；字幕把嘉禾年号换算为公元年份时多次冲突，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
+叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾七年（约213年）；剧情中的嘉禾年号与公元年份偶有差异，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
 
 ## 人物分类
 
 ### 🔴 原创虚构人物
 
-主角及剧中特有人物，历史上无直接对应原型。
+主角及剧中特有人物，历史上没有直接对应人物。
 
 | 页面 | 简介 |
 |------|------|
@@ -20,55 +20,43 @@
 | [洪新甲](fictional/hong-xinjia.md) | 大雪营主将，左县尉，主角亲兵骑兵队长 |
 | [辛饮马](fictional/xin-yinma.md) | 汉山营主将，右县尉，主角亲兵步兵队长 |
 
-以下人物页在字幕核对过程中补充：
+以下人物页记录剧中主要人物：
 
 | 页面 | 简介 |
 |------|------|
 | [刘登](fictional/liu-deng.md) | 刘官章之子，后期负责监国和政务交接 |
 | [刘基](fictional/liu-ji.md) | 早期政务助手，参与人口、财政和制度建设 |
 | [周康](fictional/zhou-kang.md) | 安汉旧部和地方治理官员 |
-| [石福](fictional/shi-fu.md) | 刘官章早期亲信，参与安汉建设 |
-| [陆毅·陆绎](fictional/lu-yi.md) | 字幕异写人物，按剧中设定与陆逊原型区分 |
+| [石符](fictional/shi-fu.md) | 刘官章早期亲信，参与安汉建设 |
 | [步俊](fictional/bu-jun.md) | 刘官章麾下将领，参与地方军事行动 |
-| [马忠](fictional/ma-zhong.md) | 剧中改编人物，负责军务和地方事务 |
 | [刘少安](fictional/liu-shaoan.md) | 河北基层人物，代表后期平民教育与迁徙视角 |
-| [陈云锤](fictional/chen-yunchui.md) | 荆州战事中的征西将军，第12集战死 |
+| [陈云垂](fictional/chen-yunchui.md) | 荆州战事中的征西将军，第12集战死 |
 | [郭修](fictional/guo-xiu.md) | 自称郭图之后，以送马行贿求仕的河北士族子弟 |
 | [郭贴](fictional/guo-tie.md) | 郭嘉之女，后成为刘登侧妃 |
 | [乞伏龙关](fictional/qi-fu-longguan.md) | 刘官章扶植的鲜卑首领，统领八星狼骑 |
 | [乞伏春和](fictional/qi-fu-chunhe.md) | 乞伏龙关之弟，留在草原经营部落势力 |
-| [权从](fictional/quan-cong.md) | 第38集出现的长安基层巡街小吏 |
-| [张逆](fictional/zhang-ni.md) | 南充国出身的护卫，后任武都方向将领 |
-| [胡奎](fictional/hu-kui.md) | 少数民族出身的满甲营统帅 |
+| [胡魁](fictional/hu-kui.md) | 少数民族出身的满甲营统帅 |
 | [魏铁山](fictional/wei-tieshan.md) | 荆州蛮族出身、入安汉军校培养的将领 |
-| [马齐](fictional/ma-qi.md) | 第6、12集出现的地方官员/参军，姓名待听音复核 |
-| [张义](fictional/zhang-yi.md) | 军马生产政策讨论中的官员，身份待补 |
 
-继续从字幕核对中补出的改编人物：
+其他剧中人物：
 
 | 页面 | 简介 |
 |------|------|
-| [费官](fictional/fei-guan.md) | 第26集户部老资历官员，与马谡共同处理财政事务 |
-| [贺其](fictional/he-qi.md) | 第34集贺家旧案的控告者 |
 | [洪彪](fictional/hong-biao.md) | 洪新甲之弟，进入安汉军校的年轻后备将领 |
 | [黄裳](fictional/huang-shang.md) | 第19、26集出身基层、参与官渡和吏部选官的官员 |
 | [李乐](fictional/li-le.md) | 第40集全军比武中胜出的关中寒门军人 |
-| [刘平](fictional/liu-ping.md) | 剧中对刘备之子“阿斗”的改名记录 |
 | [刘平昭](fictional/liu-pingzhao.md) | 蔡贵人之女，刘官章赐名的剧中人物 |
 | [马智](fictional/ma-zhi.md) | 马超之子，幼年表现出过人的力气 |
 | [庞济](fictional/pang-ji.md) | 河北战后献邺城的降臣，因手段狠毒而受审视 |
 | [朱武](fictional/zhu-wu.md) | 第26集吏部侍郎，参与官员考核与任用 |
-| [姜炯](fictional/jiang-jiong.md) | 汉山营第四卫队第三团团长，负责宫门交接与军纪 |
 | [刘承乾](fictional/liu-chengqian.md) | 刘登之子，刘官章命名的皇太孙 |
-| [边宁安](fictional/bian-ning-an.md) | 马超部凉州士卒，后列入任期届满调中央名单 |
-| [韦世辉](fictional/wei-shihui.md) | 益州战后提拔的改编将领，后负责马政（第8、10、12集） |
+| [边宁安](fictional/bian-ning-an.md) | 马超部凉州士卒，先登升司马，后列入任期届满调中央名单 |
+| [韦世灰](fictional/wei-shihui.md) | 益州战后提拔的改编将领，后负责马政（第8、10、12集） |
 | [黄商](fictional/huang-shang-person.md) | 荆州黄氏子弟，比武亚军并守阳城（第14、19集） |
-
-字幕辨析页： [严姓与“阎”字字幕辨析](fictional/yan-yan-officer.md)（用于区分严颜、严普和自动识别异写，不代表另有“阎炎”人物）。
 
 ### 🔵 历史人物（含正史对照）
 
-以下人物在正史中均有记载，各页均含《后汉书》《三国志》等正史时间线与剧中虚构时间线的对照。
+以下人物在正史中均有记载；人物页按剧情出场记录相关经历，并在适用处附正史资料。
 
 | 页面 | 正史籍贯/身份 | 剧中出场集数 |
 |------|--------------|------------|
@@ -82,7 +70,7 @@
 | [张鲁](historical/zhang-lu.md) | 沛国丰人，汉中太守 | 5–13 |
 | [严颜](historical/yan-yan.md) | 巴郡人，益州将领 | 6–12 |
 | [张任](historical/zhang-ren.md) | 益州蜀郡人，益州将领 | 7–23 |
-| [黄权](historical/huang-quan.md) | 巴西阆中人，蜀汉将领 | 9–35 |
+| [黄权](historical/huang-quan.md) | 巴西阆中人，蜀汉将领 | 9–39 |
 | [魏延](historical/wei-yan.md) | 义阳人，蜀汉将领 | 13–24 |
 | [黄忠](historical/huang-zhong.md) | 南阳人，蜀汉将领 | 13 |
 | [黄祖](historical/huang-zu.md) | 江夏太守，荆州水军人物 | 13、16、26–30 |
@@ -96,11 +84,11 @@
 | [曹操](historical/cao-cao.md) | 沛国谯人，魏武帝 | 8–38 |
 | [荀彧](historical/xun-yu.md) | 颍川颍阴人，曹操谋主 | 11–33 |
 | [郭嘉](historical/guo-jia.md) | 颍川阳翟人，曹操谋士 | 17–37 |
-| [典韦](historical/dian-wei.md) | 陈留己吾人，曹操护卫 | 18–19 |
 | [张辽](historical/zhang-liao.md) | 雁门马邑人，曹魏将领 | 10–38 |
 | [袁绍](historical/yuan-shao.md) | 汝南汝阳人，冀州牧 | 9–25 |
 | [孙权](historical/sun-quan.md) | 吴郡富春人，吴大帝 | 12–39 |
 | [周瑜](historical/zhou-yu.md) | 庐江舒人，东吴大都督 | 14–37 |
+| [步骘](historical/bu-zhi.md) | 临淮淮阴人，东吴重臣 | 26、32 |
 | [吕蒙](historical/lv-meng.md) | 汝南富陂人，东吴将领 | 21–33 |
 | [司马懿](historical/sima-yi.md) | 河内温人，曹魏谋臣 | 23–36 |
 | [邓艾](historical/deng-ai.md) | 义阳棘阳人，曹魏将领 | 35–37 |
@@ -109,6 +97,18 @@
 | [陈寿](historical/chen-shou.md) | 巴郡安汉史家，《三国志》作者 | 2（背景） |
 | [马相](historical/ma-xiang.md) | 益州黄巾首领 | 1–5（背景） |
 | [张修](historical/zhang-xiu-early.md) | 益州、汉中早期宗教军事首领 | 1–2（背景） |
+| [陆议](historical/lu-yi.md) | 吴郡陆氏人物，东吴将领 | 20、21、24、26、31、32、34、36、37 |
+| [马忠](historical/ma-zhong.md) | 巴西阆中人，蜀汉将领 | 6、7、8、12、16、17、18、19、21、23 |
+| [马齐](historical/ma-qi.md) | 蜀汉官员，参与地方治理与参军事务；后任散骑常侍 | 6、10、12、26 |
+| [张翼](historical/zhang-yi-historical.md) | 蜀汉将领，剧中任参军 | 10、12 |
+| [费观](historical/fei-guan.md) | 巴郡汉昌人，蜀汉官员 | 12、26 |
+| [贺齐](historical/he-qi.md) | 会稽山阴人，江东贺家灭门案幸存者 | 20、34 |
+| [全琮](historical/quan-cong.md) | 吴郡钱唐人，东吴将领 | 26、38 |
+| [张嶷](historical/zhang-ni.md) | 巴西南充国人，蜀汉将领 | 7、8、12 |
+| [阎圃](historical/yan-pu.md) | 巴西安汉人，汉末谋士；剧中任御史大夫 | 6、7、26、31、32 |
+| [姜冏](historical/jiang-jiong.md) | 姜维之父，剧中任汉山营团长 | 38 |
+| [刘平](historical/liu-ping.md) | 刘备之子 | 32 |
+| [庞义](historical/pang-yi.md) | 益州东州兵将领，后任中书侍郎 | 8、12、26 |
 
 补充人物页：
 
@@ -123,7 +123,6 @@
 | [吴班](historical/wu-ban.md) | 陈留人，蜀汉将领 | 13–28 |
 | [张允](historical/zhang-yun.md) | 南郡襄阳人，荆州水军将领 | 12–16 |
 | [任岐](historical/ren-qi.md) | 益州地方势力人物 | 6、31 |
-| [严普](historical/yan-pu.md) | 剧中御史大夫，封余父侯 | 6、26、31 |
 | [袁尚](historical/yuan-shang.md) | 袁绍幼子，剧中继承冀州 | 19–27 |
 | [袁谭](historical/yuan-tan.md) | 袁绍长子，河北战事中的潜在代理人 | 19–25 |
 | [袁熙](historical/yuan-xi.md) | 袁绍次子，控制幽州方向 | 19–25 |
@@ -161,17 +160,19 @@
 | [李通](historical/li-tong.md) | 曹操麾下将领，合肥与南线 | 16–24 |
 | [许褚](historical/xu-chu.md) | 曹操亲卫将领 | 17 |
 | [许攸](historical/xu-you.md) | 袁绍谋士，官渡背景人物 | 17、19 |
+| [辛评](historical/xin-ping.md) | 袁绍谋士，河内与野王方向将领 | 18、19 |
 | [庞德](historical/pang-de.md) | 凉州骑将，官渡协同部将 | 19 |
 | [审配](historical/shen-pei.md) | 袁绍重臣，邯郸/邺城守将 | 24 |
 | [颜良](historical/yan-liang.md) | 袁绍部将，白马战役人物 | 19、29 |
 | [曹彰](historical/cao-zhang.md) | 曹操之子，西域军务背景人物 | 29 |
 | [曹冲](historical/cao-chong.md) | 曹操之子，剧中天工大考考生 | 37 |
 
-字幕提及或补充的历史人物与汇总页：
+其他历史人物与汇总页：
 
 | 页面 | 正史身份或本百科说明 | 剧中出场集数 |
 |------|----------------------|------------|
-| [曹昂](historical/cao-ang.md) | 曹操长子，宛城之变背景人物 | 19 |
+| [曹昂](historical/cao-ang.md) | 曹操长子，宛城之变背景人物 | 18–19 |
+| [典韦](historical/dian-wei.md) | 曹操麾下猛将，宛城之变背景人物 | 18–19 |
 | [昌豨](historical/chang-xi.md) | 徐州地方势力人物 | 24–25 |
 | [程昱](historical/cheng-yu.md) | 曹操谋臣，剧中改任兵部尚书 | 26 |
 | [董卓](historical/dong-zhuo.md) | 东汉末年权臣，主要作为历史背景出现 | 多集背景 |
@@ -211,18 +212,17 @@
 | [黄承彦](historical/huang-chengyan.md) | 荆州名士，诸葛亮岳父 | 12 |
 | [李严](historical/li-yan.md) | 益州待争取人物，剧中未能招揽 | 8、12 |
 | [董和](historical/dong-he.md) | 益州本土士人，内应名单人物 | 8 |
-| [张翼](historical/zhang-yi-historical.md) | 蜀汉将领，剧中任参军 | 12 |
 | [张松](historical/zhang-song.md) | 益州官员，剧中写信请刘官章出兵 | 7、8 |
-| [王累](historical/wang-lei.md) | 益州官员，字幕“王磊／正度” | 8 |
-| [朴胡](historical/pu-hu.md) | 巴地部族首领，字幕“嫖胡” | 12 |
-| [杜濩](historical/du-huo.md) | 巴地部族首领，字幕“渡霍” | 12 |
-| [郤俭](historical/xi-jian.md) | 东汉益州刺史，字幕“细检” | 2–4 |
-| [郤正](historical/xi-zheng.md) | 蜀汉官员，郤俭之孙，字幕“戏政” | 2、4 |
+| [王累](historical/wang-lei.md) | 益州官员，字正度 | 8 |
+| [朴胡](historical/pu-hu.md) | 巴地部族首领 | 12 |
+| [杜濩](historical/du-huo.md) | 巴地部族首领 | 12 |
+| [郤俭](historical/xi-jian.md) | 东汉益州刺史 | 2–4 |
+| [郤正](historical/xi-zheng.md) | 蜀汉官员，郤俭之孙 | 2、4 |
 | [蒯越](historical/kuai-yue.md) | 荆州谋臣，剧中愿意合作 | 16 |
 | [蒯良](historical/kuai-liang.md) | 荆州名士，剧中愿意合作 | 16 |
 | [霍峻](historical/huo-jun.md) | 荆州出身将领，剧中留守地方 | 16 |
-| [韩嵩](historical/han-song.md) | 荆州属官，剧中任主簿（字幕作“韩松”） | 16 |
-| [邓羲](historical/deng-xi.md) | 荆州属官，字幕“邓希” | 16 |
+| [韩嵩](historical/han-song.md) | 荆州属官，剧中任主簿 | 16 |
+| [邓羲](historical/deng-xi.md) | 荆州属官 | 16 |
 | [向朗](historical/xiang-lang.md) | 蜀汉官员，剧中入安汉大学 | 16 |
 | [向宠](historical/xiang-chong.md) | 蜀汉将领，剧中入安汉大学 | 16 |
 | [士燮](historical/shi-xie.md) | 交州地方长官，剧中接受名义纳贡并受邀入朝 | 16, 25 |
@@ -231,23 +231,9 @@
 | [董承](historical/dong-cheng.md) | 汉献帝外戚，反曹密谋背景人物 | 22 |
 | [伏完](historical/fu-wan.md) | 伏皇后之父，反曹密谋背景人物 | 22 |
 | [蹇图](historical/jian-tu.md) | 蹇硕之父，汉末典故背景人物 | 22 |
-| [刘循](historical/liu-xun.md) | 刘璋之子，益州守城人物；字幕作“刘询” | 8 |
-| [段煨](historical/duan-wei.md) | 关中军阀，字幕作“段威” | 10 |
+| [刘循](historical/liu-xun.md) | 刘璋之子，益州守城人物 | 8 |
+| [段煨](historical/duan-wei.md) | 关中军阀 | 10 |
 | [杨平](historical/yang-ping.md) | 汉中地方人物，贾诩信中称其有贤能 | 10 |
-
-## 名称注释
-
-各集主角名称出现多种写法（刘关张、刘冠章、刘官长、刘文章等），均指同一人物，本百科统一称「刘官章」（用户指定称谓）。
-
-同理：
-- 洪新甲 → 红心甲、红星甲、洪新甲
-- 辛饮马 → 辛隐马、新银马、新饮马、新引马、新野马、西饮马、辛欣马
-- 马超的字统一为**孟起**；“梦琪、梦启、梦起、孟启”均是字幕识别错误。
-- 秭归（湖北地名）不要写成“子规/子归”；鱼复不要写成“渔父”。
-- 陈云锤的误听包括“陈文锤、陈英锤、陈云垂”；严颜的误听包括“炎炎、严严、燕燕”。
-- “水陆大军/水陆结合”指水军与陆军协同，不能改写成“水路并进”。
-- **周公**是刘官章中期的封号；周瑜的字是**公瑾**，两者不能混同。
-- 神威无敌大司徒炮、高炉、鱼膏、丹砂、郿县等术语按历史地名和上下文统一，避免“神威大缩头炮、高卢、鱼糕、单杀、梅县”等误写。
 
 ## 史料来源说明
 

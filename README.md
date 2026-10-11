@@ -1,5 +1,7 @@
 # 《魂穿东汉末年》人物志
 
+合集地址：[https://space.bilibili.com/592204565/lists/8021520?type=season](https://space.bilibili.com/592204565/lists/8021520?type=season)
+
 请从左侧目录进入分集剧情或人物百科。
 
 ## 本地构建
@@ -12,4 +14,4 @@ npm run build     # 生成 _book
 npm run serve     # 本地预览
 ```
 
-如果需要安装 `book.json` 中声明的插件，使用 `npm run install-book`。Node.js 18 或更高版本均可；依赖由项目本地的 `honkit` 提供，避免调用旧版全局 GitBook 的 `graceful-fs`。
+HonKit 6 没有旧版 GitBook 的 `install` 子命令，插件随项目依赖一起安装；如需保留旧操作习惯，可使用 `npm run install-book`（它等同于 `npm install`）。项目支持 Node.js 18 或更高版本，依赖由项目本地的 `honkit` 提供。
