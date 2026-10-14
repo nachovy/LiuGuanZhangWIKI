@@ -1,5 +1,11 @@
 # 边宁安
 
+<figure class="character-portrait" style="float:right; clear:right; width:220px; margin:0 0 1em 1em; padding:4px; border:1px solid #a2a9b1; background:#f8f9fa; text-align:center; font-size:90%; line-height:1.4;">
+  <img src="../../images/arts/边宁安.png" alt="边宁安" style="display:block; width:100%; height:auto; margin:0 auto 4px;">
+  <figcaption>边宁安</figcaption>
+</figure>
+
+
 **性质**：剧情人物
 **剧情出场**：第14、18、19、38集
 

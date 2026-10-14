@@ -1,5 +1,11 @@
 # 司马懿
 
+<figure class="character-portrait" style="float:right; clear:right; width:220px; margin:0 0 1em 1em; padding:4px; border:1px solid #a2a9b1; background:#f8f9fa; text-align:center; font-size:90%; line-height:1.4;">
+  <img src="../../images/arts/司马懿.png" alt="司马懿" style="display:block; width:100%; height:auto; margin:0 auto 4px;">
+  <figcaption>司马懿</figcaption>
+</figure>
+
+
 **性质**：历史人物
 **首次出场**：第23集  
 **主要出场**：第23、31、32、36集
@@ -26,14 +32,17 @@
 
 ---
 
-## 剧中出场
+## 剧中经历
 
-- 剧中司马懿在曹操方出场，为曹操谋臣，但由于曹魏早于正史衰亡，其所能发挥的作用有限。
-- 第23集及后续偶有出场，但非核心人物。
+- 第23集以河内司马氏后辈身份进入政治讨论。刘官章考虑中原世家与新政权的关系时，已经把司马懿视为需要长期观察的人才。
+- 司马懿进入安汉大学学习，在嘉禾五年九月以全科第一毕业，成绩待遇与科举状元同级。
+- 毕业后直接出任工部屯田司员外郎，为屯田司郎中的副手，秩六百石，换算为新制约正六品上。剧情当时他约三十三岁。
+- 刘官章此前已让诸葛亮重点留意司马懿。剧情把三十三岁的司马懿与二十七岁已任尚书左丞的诸葛亮对照，说明两人都进入中央体系，但晋升路径和受重视程度不同。
+- 正史中司马懿辅佐曹魏、发动高平陵之变的经历没有发生；剧中曹氏政权已结束，他的仕途从刘官章建立的大学和屯田官署开始。
 
 ---
 
 ## 相关人物
 
-- [曹操](cao-cao.md)：主公
-- [诸葛亮](zhuge-liang.md)：正史最大对手（剧中无北伐情节）
+- [刘官章](../fictional/liu-guanzhang.md)：剧中天子与任用者
+- [诸葛亮](zhuge-liang.md)：受命关注司马懿，正史中的主要对手

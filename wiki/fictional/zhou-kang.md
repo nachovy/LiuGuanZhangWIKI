@@ -1,5 +1,11 @@
 # 周康
 
+<figure class="character-portrait" style="float:right; clear:right; width:220px; margin:0 0 1em 1em; padding:4px; border:1px solid #a2a9b1; background:#f8f9fa; text-align:center; font-size:90%; line-height:1.4;">
+  <img src="../../images/arts/周康.png" alt="周康" style="display:block; width:100%; height:auto; margin:0 auto 4px;">
+  <figcaption>周康</figcaption>
+</figure>
+
+
 **性质**：原创虚构人物  
 **首次出场**：第7集  
 **主要出场**：第7、8、9、12、17、18、31集

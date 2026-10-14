@@ -40,6 +40,7 @@
 - [第38集：罗马帝国接触](wiki/episodes/ep-38.md)
 - [第39集：贵霜帝国碎裂，推广火炕](wiki/episodes/ep-39.md)
 - [第40集：草根视角，刘少安读书](wiki/episodes/ep-40.md)
+- [第41集：人口普查完成，河北巡查与孤竹城赈灾](wiki/episodes/ep-41.md)
 
 ## 《魂穿东汉末年》人物百科
 
@@ -51,17 +52,19 @@
 - [辛饮马（虚构）](wiki/fictional/xin-yinma.md)
 - [刘登（虚构）](wiki/fictional/liu-deng.md)
 - [刘基（虚构）](wiki/fictional/liu-ji.md)
+- [郑氏（虚构）](wiki/fictional/zheng-shi.md)
 - [周康（虚构）](wiki/fictional/zhou-kang.md)
 - [石符（虚构）](wiki/fictional/shi-fu.md)
-- [步俊（虚构）](wiki/fictional/bu-jun.md)
+- [步骏（虚构）](wiki/fictional/bu-jun.md)
 - [刘少安（虚构）](wiki/fictional/liu-shaoan.md)
 - [陈云垂（虚构）](wiki/fictional/chen-yunchui.md)
+- [陈绍（剧中人物）](wiki/fictional/chen-shao.md)
 - [郭修（剧中人物）](wiki/fictional/guo-xiu.md)
 - [郭贴（剧中人物）](wiki/fictional/guo-tie.md)
 - [乞伏龙关（虚构）](wiki/fictional/qi-fu-longguan.md)
 - [乞伏春和（虚构）](wiki/fictional/qi-fu-chunhe.md)
 - [胡魁（虚构）](wiki/fictional/hu-kui.md)
-- [魏铁山（虚构）](wiki/fictional/wei-tieshan.md)
+- [尉铁山（虚构）](wiki/fictional/wei-tieshan.md)
 - [洪彪（虚构）](wiki/fictional/hong-biao.md)
 - [黄裳（虚构）](wiki/fictional/huang-shang.md)
 - [李乐（虚构）](wiki/fictional/li-le.md)
@@ -71,7 +74,7 @@
 - [朱武（剧中改编）](wiki/fictional/zhu-wu.md)
 - [刘承乾（剧中改编）](wiki/fictional/liu-chengqian.md)
 - [边宁安（剧中人物）](wiki/fictional/bian-ning-an.md)
-- [韦世灰（剧中改编）](wiki/fictional/wei-shihui.md)
+- [韦石灰（剧中改编）](wiki/fictional/wei-shihui.md)
 - [黄裳（剧中人物）](wiki/fictional/huang-shang-person.md)
 
 ### 历史人物

@@ -1,5 +1,11 @@
 # 马岱
 
+<figure class="character-portrait" style="float:right; clear:right; width:220px; margin:0 0 1em 1em; padding:4px; border:1px solid #a2a9b1; background:#f8f9fa; text-align:center; font-size:90%; line-height:1.4;">
+  <img src="../../images/arts/马岱.png" alt="马岱" style="display:block; width:100%; height:auto; margin:0 auto 4px;">
+  <figcaption>马岱</figcaption>
+</figure>
+
+
 **性质**：历史人物
 **首次出场**：第26集  
 **主要出场**：第26、31集

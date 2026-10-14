@@ -1,12 +1,12 @@
 # 《魂穿东汉末年》人物百科
 
-本百科基于《魂穿东汉末年》系列视频（共40集）整理。
+本百科基于《魂穿东汉末年》系列视频（共41集）整理。
 
 逐集剧情范围、广告排除规则和记录口径见[《剧情范围》](story-conventions.md)。
 
 ## 关于本系列
 
-叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾七年（约213年）；剧情中的嘉禾年号与公元年份偶有差异，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
+叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾八年；剧情中的嘉禾年号与公元年份偶有差异，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
 
 ## 人物分类
 
@@ -18,7 +18,7 @@
 |------|------|
 | [刘官章](fictional/liu-guanzhang.md) | 主角，穿越者，建立安汉基业，最终统一天下称帝 |
 | [洪新甲](fictional/hong-xinjia.md) | 大雪营主将，左县尉，主角亲兵骑兵队长 |
-| [辛饮马](fictional/xin-yinma.md) | 汉山营主将，右县尉，主角亲兵步兵队长 |
+| [辛饮马](fictional/xin-yinma.md) | 撼山营主将，右县尉，主角亲兵步兵队长 |
 
 以下人物页记录剧中主要人物：
 
@@ -26,17 +26,19 @@
 |------|------|
 | [刘登](fictional/liu-deng.md) | 刘官章之子，后期负责监国和政务交接 |
 | [刘基](fictional/liu-ji.md) | 早期政务助手，参与人口、财政和制度建设 |
+| [郑氏](fictional/zheng-shi.md) | 刘官章正妻，刘登与刘基之母，身后追封元皇后 |
 | [周康](fictional/zhou-kang.md) | 安汉旧部和地方治理官员 |
 | [石符](fictional/shi-fu.md) | 刘官章早期亲信，参与安汉建设 |
-| [步俊](fictional/bu-jun.md) | 刘官章麾下将领，参与地方军事行动 |
+| [步骏](fictional/bu-jun.md) | 刘官章麾下将领，参与地方军事行动 |
 | [刘少安](fictional/liu-shaoan.md) | 河北基层人物，代表后期平民教育与迁徙视角 |
-| [陈云垂](fictional/chen-yunchui.md) | 荆州战事中的征西将军，第12集战死 |
+| [陈云垂](fictional/chen-yunchui.md) | 荆州战事中的征西将军，第12集战死，身后获追封 |
+| [陈绍](fictional/chen-shao.md) | 陈云垂遗孤，守蒲坂渡运，任期届满后调中央 |
 | [郭修](fictional/guo-xiu.md) | 自称郭图之后，以送马行贿求仕的河北士族子弟 |
 | [郭贴](fictional/guo-tie.md) | 郭嘉之女，后成为刘登侧妃 |
 | [乞伏龙关](fictional/qi-fu-longguan.md) | 刘官章扶植的鲜卑首领，统领八星狼骑 |
 | [乞伏春和](fictional/qi-fu-chunhe.md) | 乞伏龙关之弟，留在草原经营部落势力 |
 | [胡魁](fictional/hu-kui.md) | 少数民族出身的满甲营统帅 |
-| [魏铁山](fictional/wei-tieshan.md) | 荆州蛮族出身、入安汉军校培养的将领 |
+| [尉铁山](fictional/wei-tieshan.md) | 荆州蛮族出身、入安汉军校培养的将领 |
 
 其他剧中人物：
 
@@ -47,11 +49,11 @@
 | [李乐](fictional/li-le.md) | 第40集全军比武中胜出的关中寒门军人 |
 | [刘平昭](fictional/liu-pingzhao.md) | 蔡贵人之女，刘官章赐名的剧中人物 |
 | [马智](fictional/ma-zhi.md) | 马超之子，幼年表现出过人的力气 |
-| [庞济](fictional/pang-ji.md) | 河北战后献邺城的降臣，因手段狠毒而受审视 |
+| [庞济](fictional/pang-ji.md) | 河北世家与门下省官员，嘉禾八年以家族私产赈济渤海 |
 | [朱武](fictional/zhu-wu.md) | 第26集吏部侍郎，参与官员考核与任用 |
 | [刘承乾](fictional/liu-chengqian.md) | 刘登之子，刘官章命名的皇太孙 |
 | [边宁安](fictional/bian-ning-an.md) | 马超部凉州士卒，先登升司马，后列入任期届满调中央名单 |
-| [韦世灰](fictional/wei-shihui.md) | 益州战后提拔的改编将领，后负责马政（第8、10、12集） |
+| [韦石灰](fictional/wei-shihui.md) | 益州战后提拔的改编将领，后负责马政（第8、10、12集） |
 | [黄裳](fictional/huang-shang-person.md) | 荆州黄氏子弟，比武亚军并守阳城（第14、19集） |
 
 ### 🔵 历史人物（含正史对照）
@@ -60,26 +62,26 @@
 
 | 页面 | 正史籍贯/身份 | 剧中出场集数 |
 |------|--------------|------------|
-| [甘宁](historical/gan-ning.md) | 巴郡临江人，东吴将领 | 4–40 |
+| [甘宁](historical/gan-ning.md) | 巴郡临江人，东吴将领 | 4–41 |
 | [法正](historical/fa-zheng.md) | 扶风郿人，蜀汉谋臣 | 8–40 |
-| [贾诩](historical/jia-xu.md) | 武威姑臧人，谋臣 | 10–40 |
-| [诸葛亮](historical/zhuge-liang.md) | 琅琊阳都人，蜀汉丞相 | 16–40 |
-| [庞统](historical/pang-tong.md) | 襄阳人，蜀汉谋士 | 16–40 |
+| [贾诩](historical/jia-xu.md) | 武威姑臧人，谋臣 | 10–41 |
+| [诸葛亮](historical/zhuge-liang.md) | 琅琊阳都人，蜀汉丞相 | 16–41 |
+| [庞统](historical/pang-tong.md) | 襄阳人，蜀汉谋士 | 16–41 |
 | [刘焉](historical/liu-yan.md) | 江夏竟陵人，益州牧 | 3–9 |
 | [刘璋](historical/liu-zhang.md) | 刘焉之子，益州牧 | 6–13 |
 | [张鲁](historical/zhang-lu.md) | 沛国丰人，汉中太守 | 5–13 |
-| [严颜](historical/yan-yan.md) | 巴郡人，益州将领 | 6–12 |
+| [严颜](historical/yan-yan.md) | 巴郡老将，后任益州刺史、中书令 | 4–8、10、12–13、19–20、23、26–32 |
 | [张任](historical/zhang-ren.md) | 益州蜀郡人，益州将领 | 7–23 |
 | [黄权](historical/huang-quan.md) | 巴西阆中人，蜀汉将领 | 9–39 |
 | [魏延](historical/wei-yan.md) | 义阳人，蜀汉将领 | 13–24 |
 | [黄忠](historical/huang-zhong.md) | 南阳人，蜀汉将领 | 13 |
 | [黄祖](historical/huang-zu.md) | 江夏太守，荆州水军人物 | 13、16、26–30 |
-| [马超](historical/ma-chao.md) | 扶风茂陵人，凉州将领 | 9–40 |
+| [马超](historical/ma-chao.md) | 扶风茂陵人，凉州将领 | 9–41 |
 | [马腾](historical/ma-teng.md) | 马超之父，凉州军阀 | 13–15 |
 | [张绣](historical/zhang-xiu.md) | 武威祖厉人，宛城将领 | 10–25 |
-| [刘备](historical/liu-bei.md) | 涿郡涿县人，汉昭烈帝 | 3–40 |
+| [刘备](historical/liu-bei.md) | 涿郡涿县人，汉昭烈帝 | 3–41 |
 | [关羽](historical/guan-yu.md) | 河东解人，蜀汉将领 | 11–40 |
-| [张飞](historical/zhang-fei.md) | 涿郡人，蜀汉将领 | 4–29 |
+| [张飞](historical/zhang-fei.md) | 涿郡人，蜀汉将领 | 4、22、23、29、41 |
 | [赵云](historical/zhao-yun.md) | 常山真定人，蜀汉将领 | 14–38 |
 | [曹操](historical/cao-cao.md) | 沛国谯人，魏武帝 | 8–38 |
 | [荀彧](historical/xun-yu.md) | 颍川颍阴人，曹操谋主 | 11–33 |
@@ -97,7 +99,7 @@
 | [陈寿](historical/chen-shou.md) | 巴郡安汉史家，《三国志》作者 | 2（背景） |
 | [马相](historical/ma-xiang.md) | 益州黄巾首领 | 1–5（背景） |
 | [张修](historical/zhang-xiu-early.md) | 益州、汉中早期宗教军事首领 | 1–2（背景） |
-| [陆议](historical/lu-yi.md) | 吴郡陆氏人物，东吴将领 | 20、21、24、26、31、32、34、36、37 |
+| [陆议](historical/lu-yi.md) | 吴郡陆氏人物，东吴将领 | 20、21、24、26、31、32、34、36 |
 | [马忠](historical/ma-zhong.md) | 巴西阆中人，蜀汉将领 | 6、7、8、12、16、17、18、19、21、23 |
 | [马齐](historical/ma-qi.md) | 蜀汉官员，参与地方治理与参军事务；后任散骑常侍 | 6、10、12、26 |
 | [张翼](historical/zhang-yi-historical.md) | 蜀汉将领，剧中任参军 | 10、12 |
@@ -106,8 +108,8 @@
 | [全琮](historical/quan-cong.md) | 吴郡钱唐人，东吴将领 | 26、38 |
 | [张嶷](historical/zhang-ni.md) | 巴西南充国人，蜀汉将领 | 7、8、12 |
 | [阎圃](historical/yan-pu.md) | 巴西安汉人，汉末谋士；剧中任御史大夫 | 6、7、26、31、32 |
-| [姜冏](historical/jiang-jiong.md) | 姜维之父，剧中任汉山营团长 | 38 |
-| [刘平](historical/liu-ping.md) | 刘备之子 | 32 |
+| [姜冏](historical/jiang-jiong.md) | 姜维之父，剧中任撼山营团长 | 38 |
+| [刘平](historical/liu-ping.md) | 刘备之子，剧情中以刘平之名出现，对应正史刘禅 | 32 |
 | [庞义](historical/pang-yi.md) | 益州东州兵将领，后任中书侍郎 | 8、12、26 |
 
 补充人物页：
@@ -116,7 +118,7 @@
 |------|--------------|------------|
 | [蔡瑁](historical/cai-mao.md) | 南郡襄阳人，荆州将领 | 12–16 |
 | [刘表](historical/liu-biao.md) | 山阳高平人，荆州牧 | 11–16 |
-| [鲁肃](historical/lu-su.md) | 临淮东城人，东吴谋臣 | 14–23 |
+| [鲁肃](historical/lu-su.md) | 临淮东城人，东吴谋臣 | 20、23、26、29、30、32、41 |
 | [马岱](historical/ma-dai.md) | 扶风茂陵人，马超从弟 | 15–40 |
 | [马良](historical/ma-liang.md) | 襄阳宜城人，蜀汉官员 | 13–28 |
 | [文聘](historical/wen-ping.md) | 南阳宛人，荆州将领 | 12–20 |
