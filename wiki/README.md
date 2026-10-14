@@ -49,7 +49,6 @@
 | [李乐](fictional/li-le.md) | 第40集全军比武中胜出的关中寒门军人 |
 | [刘平昭](fictional/liu-pingzhao.md) | 蔡贵人之女，刘官章赐名的剧中人物 |
 | [马智](fictional/ma-zhi.md) | 马超之子，幼年表现出过人的力气 |
-| [庞济](fictional/pang-ji.md) | 河北世家与门下省官员，嘉禾八年以家族私产赈济渤海 |
 | [朱武](fictional/zhu-wu.md) | 第26集吏部侍郎，参与官员考核与任用 |
 | [刘承乾](fictional/liu-chengqian.md) | 刘登之子，刘官章命名的皇太孙 |
 | [边宁安](fictional/bian-ning-an.md) | 马超部凉州士卒，先登升司马，后列入任期届满调中央名单 |
@@ -178,7 +177,7 @@
 | [昌豨](historical/chang-xi.md) | 徐州地方势力人物 | 24–25 |
 | [程昱](historical/cheng-yu.md) | 曹操谋臣，剧中改任兵部尚书 | 26 |
 | [董卓](historical/dong-zhuo.md) | 东汉末年权臣，主要作为历史背景出现 | 多集背景 |
-| [逢纪](historical/feng-ji.md) | 袁绍谋臣，河北派系背景人物 | 河北战事 |
+| [逄纪](historical/pang-ji.md) | 袁绍谋臣；剧情中献邺并任门下省右散骑常侍 | 19、24、25、41 |
 | [公孙瓒](historical/gong-sun-zan.md) | 幽州军阀，骑兵制度背景人物 | 多集背景 |
 | [顾雍](historical/gu-yong.md) | 江东顾氏代表，后为吴国丞相 | 23 |
 | [韩当](historical/han-dang.md) | 江东旧将、水军人物 | 18 |
