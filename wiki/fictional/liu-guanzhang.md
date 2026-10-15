@@ -152,4 +152,4 @@
 - [法正](../historical/fa-zheng.md)：蜀中第一谋士，军师中郎将
 - [贾诩](../historical/jia-xu.md)：军师中郎将
 - [诸葛亮](../historical/zhuge-liang.md)：后期重要文官谋士
-- [马超](../historical/ma-chao.md)：剧中义子关系，称马超字"孟起"
+- [马超](../historical/ma-chao.md)：义子
