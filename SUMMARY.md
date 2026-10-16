@@ -41,6 +41,7 @@
 - [第39集：贵霜帝国碎裂，推广火炕](wiki/episodes/ep-39.md)
 - [第40集：草根视角，刘少安读书](wiki/episodes/ep-40.md)
 - [第41集：人口普查完成，河北巡查与孤竹城赈灾](wiki/episodes/ep-41.md)
+- [第42集：长安旧族复起与嘉禾军演](wiki/episodes/ep-42.md)
 
 ## 《魂穿东汉末年》人物百科
 
@@ -148,6 +149,8 @@
 - [王粲](wiki/historical/wang-can.md)
 - [荀攸](wiki/historical/xun-you.md)
 - [钟繇](wiki/historical/zhong-you.md)
+- [杨彪](wiki/historical/yang-biao.md)
+- [杨修](wiki/historical/yang-xiu.md)
 - [诸葛瑾](wiki/historical/zhuge-jin.md)
 - [苏飞](wiki/historical/su-fei.md)
 - [杨怀](wiki/historical/yang-huai.md)

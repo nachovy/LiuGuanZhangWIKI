@@ -1,12 +1,12 @@
 # 《魂穿东汉末年》人物百科
 
-本百科基于《魂穿东汉末年》系列视频（共41集）整理。
+本百科基于《魂穿东汉末年》系列视频（共42集）整理。
 
 逐集剧情范围、广告排除规则和记录口径见[《剧情范围》](story-conventions.md)。
 
 ## 关于本系列
 
-叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾八年；剧情中的嘉禾年号与公元年份偶有差异，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
+叙事者以现代人视角"魂穿"至东汉末年，在益州巴郡安汉县万安乡以一个一无所有的贫民身份开始，历经数十年，经营兵力、布局天下。全系列从约176年推进到嘉禾九年；剧情中的嘉禾年号与公元年份偶有差异，正文优先采用连续剧情中的年号。具体情节属于架空虚构。
 
 ## 人物分类
 
@@ -61,11 +61,11 @@
 
 | 页面 | 正史籍贯/身份 | 剧中出场集数 |
 |------|--------------|------------|
-| [甘宁](historical/gan-ning.md) | 巴郡临江人，东吴将领 | 4–41 |
+| [甘宁](historical/gan-ning.md) | 巴郡临江人，东吴将领 | 4–42 |
 | [法正](historical/fa-zheng.md) | 扶风郿人，蜀汉谋臣 | 8–40 |
 | [贾诩](historical/jia-xu.md) | 武威姑臧人，谋臣 | 10–41 |
-| [诸葛亮](historical/zhuge-liang.md) | 琅琊阳都人，蜀汉丞相 | 16–41 |
-| [庞统](historical/pang-tong.md) | 襄阳人，蜀汉谋士 | 16–41 |
+| [诸葛亮](historical/zhuge-liang.md) | 琅琊阳都人，蜀汉丞相 | 16–42 |
+| [庞统](historical/pang-tong.md) | 襄阳人，蜀汉谋士 | 16–42 |
 | [刘焉](historical/liu-yan.md) | 江夏竟陵人，益州牧 | 3–9 |
 | [刘璋](historical/liu-zhang.md) | 刘焉之子，益州牧 | 6–13 |
 | [张鲁](historical/zhang-lu.md) | 沛国丰人，汉中太守 | 5–13 |
@@ -75,30 +75,30 @@
 | [魏延](historical/wei-yan.md) | 义阳人，蜀汉将领 | 13–24 |
 | [黄忠](historical/huang-zhong.md) | 南阳人，蜀汉将领 | 13 |
 | [黄祖](historical/huang-zu.md) | 江夏太守，荆州水军人物 | 13、16、26–30 |
-| [马超](historical/ma-chao.md) | 扶风茂陵人，凉州将领 | 9–41 |
+| [马超](historical/ma-chao.md) | 扶风茂陵人，凉州将领 | 9–42 |
 | [马腾](historical/ma-teng.md) | 马超之父，凉州军阀 | 13–15 |
 | [张绣](historical/zhang-xiu.md) | 武威祖厉人，宛城将领 | 10–25 |
 | [刘备](historical/liu-bei.md) | 涿郡涿县人，汉昭烈帝 | 3–41 |
 | [关羽](historical/guan-yu.md) | 河东解人，蜀汉将领 | 11–40 |
 | [张飞](historical/zhang-fei.md) | 涿郡人，蜀汉将领 | 4、22、23、29、41 |
 | [赵云](historical/zhao-yun.md) | 常山真定人，蜀汉将领 | 14–38 |
-| [曹操](historical/cao-cao.md) | 沛国谯人，魏武帝 | 8–38 |
-| [荀彧](historical/xun-yu.md) | 颍川颍阴人，曹操谋主 | 11–33 |
+| [曹操](historical/cao-cao.md) | 沛国谯人，魏武帝 | 8–38、42 |
+| [荀彧](historical/xun-yu.md) | 颍川颍阴人，曹操谋主 | 11–33、42 |
 | [郭嘉](historical/guo-jia.md) | 颍川阳翟人，曹操谋士 | 17–37 |
 | [张辽](historical/zhang-liao.md) | 雁门马邑人，曹魏将领 | 10–38 |
 | [袁绍](historical/yuan-shao.md) | 汝南汝阳人，冀州牧 | 9–25 |
 | [孙权](historical/sun-quan.md) | 吴郡富春人，吴大帝 | 12–39 |
-| [周瑜](historical/zhou-yu.md) | 庐江舒人，东吴大都督 | 14–37 |
+| [周瑜](historical/zhou-yu.md) | 庐江舒人，东吴大都督 | 14–37、42 |
 | [步骘](historical/bu-zhi.md) | 临淮淮阴人，东吴重臣 | 26、32 |
 | [吕蒙](historical/lv-meng.md) | 汝南富陂人，东吴将领 | 21–33 |
 | [司马懿](historical/sima-yi.md) | 河内温人，曹魏谋臣 | 23–36 |
 | [邓艾](historical/deng-ai.md) | 义阳棘阳人，曹魏将领 | 35–37 |
 | [刘协（献帝）](historical/liu-xie.md) | 汉末皇帝 | 13–26 |
-| [蔡琰（蔡文姬）](historical/cai-wenji.md) | 陈留圉人，蔡邕之女 | 25–30 |
+| [蔡琰（蔡文姬）](historical/cai-wenji.md) | 陈留圉人，蔡邕之女 | 25–30、42 |
 | [陈寿](historical/chen-shou.md) | 巴郡安汉史家，《三国志》作者 | 2（背景） |
 | [马相](historical/ma-xiang.md) | 益州黄巾首领 | 1–5（背景） |
 | [张修](historical/zhang-xiu-early.md) | 益州、汉中早期宗教军事首领 | 1–2（背景） |
-| [陆议](historical/lu-yi.md) | 吴郡陆氏人物，东吴将领 | 20、21、24、26、31、32、34、36 |
+| [陆议](historical/lu-yi.md) | 吴郡陆氏人物，东吴将领 | 20、21、24、26、31、32、34、36、42 |
 | [马忠](historical/ma-zhong.md) | 巴西阆中人，蜀汉将领 | 6、7、8、12、16、17、18、19、21、23 |
 | [马齐](historical/ma-qi.md) | 蜀汉官员，参与地方治理与参军事务；后任散骑常侍 | 6、10、12、26 |
 | [张翼](historical/zhang-yi-historical.md) | 蜀汉将领，剧中任参军 | 10、12 |
@@ -134,7 +134,9 @@
 | [田豫](historical/tian-yu.md) | 幽州边务人物，辽东朝议参与者 | 29 |
 | [王粲](historical/wang-can.md) | 建安文学家，参与文学院修书 | 29 |
 | [荀攸](historical/xun-you.md) | 颍川谋士，中书智库人物 | 28–31 |
-| [钟繇](historical/zhong-you.md) | 颍川重臣，参与字体和印刷规范 | 28 |
+| [钟繇](historical/zhong-you.md) | 颍川重臣，参与字体和印刷规范 | 28、42 |
+| [杨彪](historical/yang-biao.md) | 弘农杨氏长者，东汉三公 | 42 |
+| [杨修](historical/yang-xiu.md) | 弘农杨氏子弟，曹操府属官 | 42 |
 | [诸葛瑾](historical/zhuge-jin.md) | 诸葛亮之兄，剧中主政徐州 | 25、28 |
 | [苏飞](historical/su-fei.md) | 甘宁旧日引荐者，剧中任礼部侍郎 | 16、26 |
 | [杨怀](historical/yang-huai.md) | 严颜部下，剧中任征北将军 | 7、12、38 |
@@ -145,8 +147,8 @@
 | [袁术](historical/yuan-shu.md) | 淮南割据者，称帝后败亡 | 9–11 |
 | [孙策](historical/sun-ce.md) | 江东军阀，接收扬州和袁术旧部 | 9–20 |
 | [吕布](historical/lv-bu.md) | 徐州军阀，下邳战役对手 | 9–11 |
-| [李傕](historical/li-jue.md) | 关中军阀，长安势力 | 7、9–11 |
-| [郭汜](historical/guo-si.md) | 关中军阀，李傕旧部 | 7、9–11 |
+| [李傕](historical/li-jue.md) | 关中军阀，长安势力 | 7、9–11、42 |
+| [郭汜](historical/guo-si.md) | 关中军阀，李傕旧部 | 7、9–11、42 |
 | [陈宫](historical/chen-gong.md) | 吕布谋士，下邳战役人物 | 9 |
 | [高顺](historical/gao-shun.md) | 吕布将领，陷阵营统领 | 9 |
 | [高干](historical/gao-gan.md) | 袁绍外甥，并州与壶关守将 | 16–25 |
@@ -177,7 +179,7 @@
 | [昌豨](historical/chang-xi.md) | 徐州地方势力人物 | 24–25 |
 | [程昱](historical/cheng-yu.md) | 曹操谋臣，剧中改任兵部尚书 | 26 |
 | [董卓](historical/dong-zhuo.md) | 东汉末年权臣，主要作为历史背景出现 | 多集背景 |
-| [逄纪](historical/pang-ji.md) | 袁绍谋臣；剧情中献邺并任门下省右散骑常侍 | 19、24、25、41 |
+| [逄纪](historical/pang-ji.md) | 袁绍谋臣；剧情中献邺并任门下省右散骑常侍 | 19、24、25、41、42 |
 | [公孙瓒](historical/gong-sun-zan.md) | 幽州军阀，骑兵制度背景人物 | 多集背景 |
 | [顾雍](historical/gu-yong.md) | 江东顾氏代表，后为吴国丞相 | 23 |
 | [韩当](historical/han-dang.md) | 江东旧将、水军人物 | 18 |
@@ -187,11 +189,11 @@
 | [刘和](historical/liu-he.md) | 刘虞之子，剧中被袁绍扶植为河北合法性棋子 | 17、19、22、25 |
 | [刘磐](historical/liu-pan.md) | 刘表宗族将领，荆州旧部 | 23 |
 | [马谡](historical/ma-su.md) | 剧中由近臣成长为户部官员 | 14、20、21、26、35、40 |
-| [罗马使团与西方人物](historical/roman-figures.md) | 罗马使团及音译人物汇总 | 37、39 |
+| [罗马使团与西方人物](historical/roman-figures.md) | 罗马使团及音译人物汇总 | 37、39、42 |
 | [司马朗](historical/sima-lang.md) | 司马懿长兄，剧中科举榜眼 | 37 |
 | [太史慈](historical/taishi-ci.md) | 江东旧部，正史名将 | 18、21 |
 | [田丰](historical/tian-feng.md) | 袁绍谋臣 | 13 |
-| [王允](historical/wang-yun.md) | 诛董卓的东汉重臣，作为典故出现 | 39 |
+| [王允](historical/wang-yun.md) | 诛董卓的东汉重臣，作为典故出现 | 39、42 |
 | [文丑](historical/wen-chou.md) | 袁绍部将，颜良的同僚 | 12 |
 | [徐庶](historical/xu-shu.md) | 正史谋士，剧中科举状元 | 37 |
 | [臧霸](historical/zang-ba.md) | 徐州地方势力首领 | 25 |
